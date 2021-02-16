@@ -1,0 +1,19 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Person One",
+      "title": "Job Title"
+    },
+    {
+      "id": 2,
+      "name": "Person Two",
+      "title": "Job Title"
+    },
+    {
+      "id": 3,
+      "name": "Person Three",
+      "title": "Job Title"
+    }
+  ]
+}
